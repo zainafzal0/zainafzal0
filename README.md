@@ -9,12 +9,11 @@
        alt="snake" /></a>
 </div>
 
------
 
 <div>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,angular,vue,js,ts,html,css,scss,nextjs,nodejs,py,django,flask,spring,aws,bootstrap,c,cpp,css,docker,dynamodb,express,java,kotlin,swift,linux,mongodb,postgres,mysql,tailwind,regex,webpack,kubernetes,git,figma,flutter,vscode&perline=14" />
@@ -23,9 +22,8 @@
 
 </div>
 
-<hr/>
 <div align="center">
-  <h3 >☎️ Contact Me</h3>
+  <h2 > Contact Me</h2>
 </div>
 <div>
   <samp>
